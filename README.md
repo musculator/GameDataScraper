@@ -7,8 +7,9 @@ Primera pràctica de l'assignatura Tipologia i cicle de vida dels dates del màs
 L'activitat ha estat realitzada de manera individual per Francisco Moreno Bonnin.
 
 ## Ficheros del código fuente
-src/fmorenobo_TCVD_PRAC1.py: Implementació inicial d'el scraper
-csv/v1Data.csv: Dataset de la versió inicial
+* src/fmorenobo_TCVD_PRAC1.py: Implementació inicial d'el scraper
+* csv/export_dataframe.csv: Dataset de la versió inicial
+* doc/fmorenobo_TCVD_PRAC1.txt Documentació inicial
 
 ## Recursos
 Lawson, R. (2015). Web Scraping with Python. Packt Publishing Ltd.
