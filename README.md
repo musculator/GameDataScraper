@@ -8,6 +8,7 @@ L'activitat ha estat realitzada de manera individual per Francisco Moreno Bonnin
 
 ## Ficheros del código fuente
 src/fmorenobo_TCVD_PRAC1.py: Implementació inicial d'el scraper
+csv/v1Data.csv: Dataset de la versió inicial
 
 ## Recursos
 Lawson, R. (2015). Web Scraping with Python. Packt Publishing Ltd.
