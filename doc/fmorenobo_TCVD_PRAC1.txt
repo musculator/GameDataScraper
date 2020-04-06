@@ -1,7 +1,7 @@
 Per ha aquesta primera versió per a revisar, només he realitzat l'escraping de les últimes pàgines. Evidentment a la versió final es farà de totes. Voldria comentar que inicialment, recupero tots els atributs, encara que no tots els jocs els tenen, en la següent practica, en fer la neteja de les dades ja descartaré els atributs que no m'interessin, o els ajuntaré.
 De cara a l'entrega em faltaran les seguen tasques:
-	-comentar el codi,
-	-afegir-li un retràs entre peticions per a no saturar el servidor web
-	-modificar l'agent
-	-codificar un sistema per a guardar fitxers parcials, en cas que doni un error de connexió no perdre el treball realitzat
-	-generar la documentació.
+	OK-comentar el codi,
+	OK-afegir-li un retràs entre peticions per a no saturar el servidor web
+	OK-modificar l'agent
+	OK-codificar un sistema per a guardar fitxers parcials, en cas que doni un error de connexió no perdre el treball realitzat
+	  -generar la documentació.
