@@ -14,4 +14,4 @@ L'activitat ha estat realitzada de manera individual per Francisco Moreno Bonnin
 
 ## Recursos
 Lawson, R. (2015). Web Scraping with Python. Packt Publishing Ltd.
-Laia Subirats Maté, Mireia Calvo González. (2019). Web scraping  Oberta UOC Publishing, SL
+<BR>Laia Subirats Maté, Mireia Calvo González. (2019). Web scraping  Oberta UOC Publishing, SL
