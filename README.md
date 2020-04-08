@@ -10,7 +10,7 @@ L'activitat ha estat realitzada de manera individual per Francisco Moreno Bonnin
 * src/fmorenobo_TCVD_PRAC1.py: Implementació inicial d'el scraper
 * src/fmorenobo_TCVD_PRAC1.ipynb: Implementació inicial d'el scraper (jupyter notebook)
 * csv/export_dataframe.csv: Dataset amb 114712 jocs amb un total de 24 atributs
-* doc/fmorenobo_TCVD_PRAC1.txt Documentació
+* doc/fmorenobo_TCVD_PRAC1.pdf Documentació
 
 ## Recursos
 Lawson, R. (2015). Web Scraping with Python. Packt Publishing Ltd.
